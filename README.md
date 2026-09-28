@@ -53,8 +53,6 @@ Outros exemplos válidos: integração com sistemas legados de formato rígido, 
 
 ## Exercício 2 — Prático em Python: Dados de Sensores IoT
 
-> **Nota sobre os dados:** o PDF trunca as linhas do dicionário (o 4º e o 5º `timestamp`). Assumi `2026-03-17 10:01:00` para S3 e `2026-03-17 10:02:00` para o último S2. Essa suposição não altera a lógica das regras.
-
 ### Código (`transform_iot.py`)
 
 ```python
